@@ -1,7 +1,35 @@
 /* === DESKTOP FIRST === */
 
 /* xl <= Extra extra large (xxl) */
+@media (max-width : 1600px) {
+	.nav {
+    padding-top: 2.8rem;
+    padding-left: 23rem;
+    padding-right: 33.1rem;
+    padding-bottom: 1.4rem;
+}
+}
+
 @media (max-width : 1400px) {
+	.nav {
+    /* padding-top: 2.8rem; */
+    padding-left: 22rem;
+    padding-right: 0;
+    /* padding-bottom: 1.4rem; */
+}
+.title-reverse {
+
+	padding-right: 0.5rem;
+}
+.title-contact {
+	
+	padding-left: 9.8rem;
+	
+}
+.title {
+
+	margin-left: 10.8rem;
+}
 
 }
 
